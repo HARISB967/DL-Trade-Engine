@@ -39,5 +39,5 @@ The system was evaluated on a 3-year unseen, out-of-sample market dataset (2023â
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YourUsername/Regime-Aware-Trading-LSTM.git](https://github.com/YourUsername/Regime-Aware-Trading-LSTM.git)
-cd Regime-Aware-Trading-LSTM
+git clone [https://github.com/HARISB967/DL-Trade-Engine.git](https://github.com/HARISB967/DL-Trade-Engine.git)
+cd DL-Trade-Engine
